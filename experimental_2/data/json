@@ -1,0 +1,100 @@
+{
+  "ma_thu_tuc": "1.000656.000.00.00.H29",
+  "so_quyet_dinh": "2371/QĐ-UBND",
+  "ten_thu_tuc": "Thủ tục đăng ký khai tử",
+  "cap_thuc_hien": "Cấp Xã",
+  "loai_thu_tuc": "TTHC được luật giao quy định chi tiết",
+  "linh_vuc": "Hộ tịch",
+  "trinh_tu_thuc_hien": {
+    "luu_y": "Trường hợp người yêu cầu nộp giấy tờ là bản sao được cấp từ sổ gốc hoặc bản sao được chứng thực từ bản chính thì người tiếp nhận hồ sơ không được yêu cầu xuất trình bản chính; nếu người yêu cầu chỉ nộp bản chụp và xuất trình bản chính thì người tiếp nhận hồ sơ kiểm tra, đối chiếu bản chụp với bản chính và ký vào bản chụp xác nhận về việc đã đối chiếu nội dung giấy tờ đó, không được yêu cầu người đi đăng ký nộp bản sao có chứng thực giấy tờ đó. Trường hợp pháp luật quy định xuất trình giấy tờ khi đăng ký hộ tịch, người tiếp nhận có trách nhiệm kiểm tra giấy tờ xuất trình, đối chiếu với thông tin trong Tờ khai và trả lại cho người xuất trình, không được yêu cầu người đăng ký hộ tịch nộp thêm bản sao giấy tờ đó. Người tiếp nhận có thể chụp 01 bản giấy tờ xuất trình hoặc ghi lại thông tin của giấy tờ xuất trình để lưu hồ sơ. Người tiếp nhận có trách nhiệm tiếp nhận đúng, đủ hồ sơ đăng ký hộ tịch theo quy định của pháp luật hộ tịch, không được yêu cầu người đăng ký hộ tịch nộp thêm giấy tờ mà pháp luật hộ tịch không quy định phải nộp.",
+    "cac_buoc": [
+      {
+        "buoc": 1,
+        "noi_dung": "Người có yêu cầu đăng ký khai tử nộp hồ sơ trực tiếp hoặc gửi hồ sơ qua hệ thống bưu chính đến Bộ phận tiếp nhận và trả kết quả của Ủy ban nhân dân phường, xã, thị trấn nơi có thẩm quyền, từ thứ hai đến thứ sáu (buổi sáng từ 07 giờ 30 phút đến 11 giờ 30 phút, buổi chiều từ 13 giờ 00 phút đến 17 giờ 00 phút) và sáng thứ bảy (từ 07 giờ 30 phút đến 11 giờ 30 phút) như sau: - Ủy ban nhân dân phường, xã, thị trấn nơi cư trú cuối cùng của người chết; - Trường hợp không xác định được nơi cư trú cuối cùng của người chết thì Ủy ban nhân dân phường, xã, thị trấn nơi người đó chết hoặc nơi phát hiện thi thể người chết thực hiện việc đăng ký khai tử."
+      },
+      {
+        "buoc": 2,
+        "noi_dung": "Bộ phận tiếp nhận và trả kết quả của tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các giấy tờ có trong hồ sơ: * Trường hợp nộp trực tiếp: + Trường hợp hồ sơ đầy đủ, hợp lệ, công chức tiếp nhận hồ sơ, viết giấy biên nhận; + Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ thì hướng dẫn người nộp hồ sơ bổ sung, hoàn thiện hồ sơ theo quy định. Trường hợp không thể bổ sung, hoàn thiện hồ sơ ngay thì phải lập văn bản hướng dẫn, trong đó nêu rõ những loại giấy tờ, nội dung cần bổ sung, hoàn thiện, ký và ghi rõ họ, tên người tiếp nhận hồ sơ; + Trong trường hợp hồ sơ không được bổ sung, hoàn thiện theo hướng dẫn thì người tiếp nhận hồ sơ từ chối tiếp nhận hồ sơ. Việc từ chối tiếp nhận hồ sơ phải được thể hiện bằng văn bản, trong đó ghi rõ lý do từ chối, người tiếp nhận ký và ghi rõ họ tên. * Trường hợp nộp qua bưu chính: Trường hợp hồ sơ đầy đủ và hợp lệ thì thực hiện giải quyết hồ sơ theo quy định. Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ thì mời người nộp hồ sơ đến bổ sung theo quy định."
+      },
+      {
+        "buoc": 3,
+        "noi_dung": "Ngay khi nhận đủ hồ sơ hợp lệ theo quy định, nếu thấy thông tin khai sinh đầy đủ, hợp lệ. Công chức Tư pháp – Hộ tịch báo cáo Chủ tịch Ủy ban nhân dân phường, xã, thị trấn xem xét, quyết định. Trường hợp Chủ tịch Ủy ban nhân dân phường, xã, thị trấn đồng ý giải quyết ký cấp Trích lục khai tử cho người yêu cầu. Trường hợp từ chối, thì thông báo bằng văn bản, có nêu rõ lý do. Sau khi Chủ tịch Ủy ban nhân dân phường, xã, thị trấn ký Trích lục khai tử, Công chức Tư pháp – Hộ tịch ghi nội dung khai tử vào sổ đăng ký khai tử, cùng người đi đăng ký khai tử ký tên vào sổ."
+      }
+    ]
+  },
+  "cach_thuc_thuc_hien": [
+    {
+      "hinh_thuc": "Trực tiếp",
+      "chi_tiet": {
+        "thoi_han_giai_quyet": "8000 Đồng (",
+        "phi_le_phi": "8000 Đồng (Phí cấp bản sao Trích lục đăng ký nhận cha, mẹ, con (nếu có yêu cầu): 8",
+        "mo_ta": "8000 Đồng (Phí cấp bản sao Trích lục đăng ký nhận cha, mẹ, con (nếu có yêu cầu): 8.000 đồng/bản sao Trích lục/sự kiện hộ tịch đã đăng ký (thực hiện theo quy định tại Thông tư số 281/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính).) Lệ phí : 5.000 Đồng (5.000 đồng/trường hợp. Miễn lệ phí đối với trẻ em, người thuộc hộ nghèo, người cao tuổi, người khuyết tật, người thuộc gia đình có công với cách mạng, đăng ký khai tử đúng hạn) Phí : 0 Đồng (- Thu phí bằng 0 đồng trường hợp nộp hồ sơ trực tuyến.) ."
+      }
+    },
+    {
+      "hinh_thuc": "Trực tuyến",
+      "chi_tiet": {
+        "thoi_han_giai_quyet": "5.000 Đồng (5.000 đồng/trường hợp. Miễn lệ phí đối với trẻ em, người thuộc hộ nghèo, người cao tuổi, người khuyết tật, người thuộc gia đình có công với cách mạng, đăng ký . trả kết quả trong ngày làm việc tiếp theo. khai tử đúng hạn)",
+        "phi_le_phi": "5",
+        "mo_ta": "5.000 Đồng (5.000 đồng/trường hợp. Miễn lệ phí đối với trẻ em, người thuộc hộ nghèo, người cao tuổi, người khuyết tật, người thuộc gia đình có công với cách mạng, đăng ký ."
+      }
+    },
+    {
+      "hinh_thuc": "Dịch vụ bưu chính",
+      "chi_tiet": {
+        "thoi_han_giai_quyet": "5.000 Đồng (5.000 đồng/trường hợp. Miễn lệ phí đối với trẻ em, người thuộc hộ nghèo, người cao tuổi, người khuyết tật, người thuộc gia đình có công với cách mạng, đăng ký khai tử đúng hạn)",
+        "phi_le_phi": "5",
+        "mo_ta": "5.000 Đồng (5.000 đồng/trường hợp. Miễn lệ phí đối với trẻ em, người thuộc hộ nghèo, người cao tuổi, người khuyết tật, người thuộc gia đình có công với cách mạng, đăng ký khai tử đúng hạn) Phí : 8000 Đồng (Phí cấp bản sao Trích lục đăng ký nhận cha, mẹ, con (nếu có yêu cầu): 8.000 đồng/bản sao Trích lục/sự kiện hộ tịch đã đăng ký (thực hiện theo quy định tại Thông tư số 281/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính).) Phí : 0 Đồng (- Thu phí bằng 0 đồng trường hợp nộp hồ sơ trực tuyến.) ."
+      }
+    }
+  ],
+  "thanh_phan_ho_so": {
+    "giay_to_phai_nop": [
+      "Giấy báo tử hoặc giấy tờ thay thế Giấy báo tử do cơ quan có thẩm \nquyền cấp. \n \n \nBản \nchính: 1 \nBản sao: \n0",
+      "Giấy tờ, tài liệu, chứng cứ do cơ quan, tổ chức có thẩm quyền cấp hoặc \nxác nhận hợp lệ chứng minh sự kiện chết đối với trường hợp đăng ký \n \n \nBản \nchính: 1 \n\n\nkhai tử cho người chết đã lâu, không có Giấy báo tử hoặc giấy tờ thay \nthế Giấy báo tử. \nBản sao: \n0",
+      "Văn bản ủy quyền (được chứng thực) theo quy định của pháp luật \ntrong trường hợp ủy quyền thực hiện việc đăng ký khai tử. Trường hợp \nngười có trách nhiệm đăng ký khai tử ủy quyền cho người khác thực \nhiện việc đăng ký khai tử mà người được ủy quyền là ông, bà, cha, mẹ, \ncon, vợ, chồng, anh, chị, em ruột của người ủy quyền thì văn bản ủy \nquyền không phải chứng thực. \n \n \nBản \nchính: 1 \nBản sao: \n0"
+    ],
+    "giay_to_phai_xuat_trinh": [
+      "Trường hợp không xác định được nơi cư trú cuối cùng của người chết \nthì xuất trình giấy tờ chứng minh nơi người đó chết hoặc nơi phát hiện \nthi thể của người chết. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \nTrường hợp gửi hồ sơ qua hệ thống bưu chính thì phải gửi kèm theo bản \nsao có chứng thực các giấy tờ phải xuất trình nêu trên. \n \n \nBản \nchính: 0 \nBản sao: \n0",
+      "Hộ chiếu hoặc Chứng minh nhân dân hoặc Thẻ căn cước công dân hoặc \ncác giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm \nquyền cấp, còn giá trị sử dụng để chứng minh về nhân thân của người có \nyêu cầu đăng ký khai tử. Trường hợp các thông tin cá nhân trong các \ngiấy tờ này đã có trong CSDLQGVDC, CSDLHTĐT, được hệ thống \nđiền tự động thì không phải tải lên (theo hình thức trực tuyến). \n \n \nBản \nchính: 1 \nBản sao: \n0",
+      "Giấy tờ chứng minh nơi cư trú cuối cùng của người chết để xác định      \nthẩm quyền trong trường hợp cơ quan đăng ký hộ tịch không thể khai \nthác được thông tin về nơi cư trú của công dân theo các phương thức quy \nđịnh tại khoản 2 Điều 14 Nghị định số 104/2022/NĐ-CP ngày \n21/12/2022 của Chính phủ. Trường hợp các thông tin về giấy tờ chứng \n \n \nBản \nchính: 1 \nBản sao: \n0 \n\n\nminh nơi cư trú đã được khai thác từ Cơ sở dữ liệu quốc gia về dân cư \nbằng các phương thức này thì người có yêu cầu không phải xuất trình \n(theo hình thức trực tiếp) hoặc tải lên (theo hình thức trực tuyến)."
+    ],
+    "luu_y": [
+      "Trong thời hạn 15 ngày kể từ ngày có người chết thì vợ, chồng hoặc \ncon, cha, mẹ hoặc người thân thích khác của người chết có trách nhiệm \nđi đăng ký khai tử; trường hợp người chết không có người thân thích thì \nđại diện của cơ quan, tổ chức, cá nhân liên quan có trách nhiệm đi khai \ntử. \n \n \nBản \nchính: 0 \nBản sao: \n0",
+      "Đối với giấy tờ nộp, xuất trình nếu người yêu cầu nộp hồ sơ theo hình \nthức trực tiếp: \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Đối với giấy tờ xuất trình khi đăng ký hộ tịch, người tiếp nhận có \ntrách nhiệm kiểm tra, đối chiếu với thông tin trong tờ khai, chụp lại hoặc \nghi lại thông tin để lưu trong hồ sơ và trả lại cho người xuất trình, không \nđược yêu cầu nộp bản sao hoặc bản chụp giấy tờ đó. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Người yêu cầu đăng ký hộ tịch có thể nộp bản sao chứng thực từ bản \nchính hoặc bản sao được cấp từ sổ gốc hoặc bản chụp kèm theo bản \nchính giấy tờ để đối chiếu. Trường hợp người yêu cầu nộp bản chụp \nkèm theo bản chính giấy tờ thì người tiếp nhận có trách nhiệm kiểm tra, \nđối chiếu bản chụp với bản chính và ký xác nhận, không được yêu cầu \nngười đi đăng ký nộp bản sao giấy tờ đó. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Người tiếp nhận có trách nhiệm tiếp nhận đúng, đủ hồ sơ đăng ký hộ \ntịch theo quy định của pháp luật hộ tịch, không được yêu cầu người \nđăng ký hộ tịch nộp thêm giấy tờ mà pháp luật hộ tịch không quy định \nphải nộp. \n \n \nBản \nchính: 0 \nBản sao: \n0",
+      "Đối với giấy tờ gửi kèm theo nếu người yêu cầu nộp hồ sơ theo hình \nthức trực tuyến: \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Bản chụp các giấy tờ gửi kèm theo hồ sơ đăng ký khai tử trực tuyến \nphải bảo đảm rõ nét, đầy đủ, toàn vẹn về nội dung, là bản chụp bằng \nmáy ảnh, điện thoại hoặc được chụp, được quét bằng thiết bị điện tử, từ \ngiấy tờ được cấp hợp lệ, còn giá trị sử dụng; nếu là giấy tờ do cơ quan \ncó thẩm quyền nước ngoài cấp thì phải được hợp pháp hóa lãnh sự, dịch \nsang tiếng Việt theo quy định, trừ trường hợp được miễn hợp pháp hóa \nlãnh sự. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Trường hợp giấy tờ, tài liệu phải gửi kèm trong hồ sơ đăng ký khai tử \ntrực tuyến đã có bản sao điện tử hoặc đã có bản điện tử giấy tờ hộ tịch \nthì người yêu cầu được sử dụng bản điện tử này. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \n+ Khi đến cơ quan đăng ký hộ tịch nhận kết quả (Trích lục khai tử/bản \nsao Trích lục khai tử), người có yêu cầu đăng ký khai tử phải xuất trình \ngiấy tờ tuỳ thân,  nộp bản chính các giấy tờ là thành phần hồ sơ đăng ký \nkhai tử theo quy định pháp luật hộ tịch. \n \n \nBản \nchính: 0 \nBản sao: \n0 \n \nTrường hợp người yêu cầu đăng ký khai tử không cung cấp được giấy tờ \nnêu trên theo quy định hoặc giấy tờ nộp, xuất trình bị tẩy xóa, sửa chữa, \nlàm giả thì cơ quan đăng ký hộ tịch có thẩm quyền hủy bỏ kết quả đăng \nký khai tử. \n \n \nBản \nchính: 0 \nBản sao: \n0"
+    ]
+  },
+  "doi_tuong_thuc_hien": "Công dân Việt Nam",
+  "co_quan_thuc_hien": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "co_quan_tham_quyen": "Ủy ban Nhân dân xã, phường, thị trấn.",
+  "dia_chi_tiep_nhan": "UBND phường, xã, thị trấn",
+  "ket_qua_thuc_hien": "Trích lục khai tử, Bản sao trích lục khai tử, Bản điện tử Trích lục",
+  "can_cu_phap_ly": [
+    {
+      "so_ky_hieu": "60/2014/QH13",
+      "trich_yeu": "Luật 60/2014/QH13",
+      "ngay_ban_hanh": "20-11-2014",
+      "co_quan_ban_hanh": "Quốc Hội"
+    },
+    {
+      "so_ky_hieu": "123/2015/NĐ-CP",
+      "trich_yeu": "Nghị định 123/2015/NĐ-CP",
+      "ngay_ban_hanh": "15-11-2015",
+      "co_quan_ban_hanh": "Chính phủ"
+    },
+    {
+      "so_ky_hieu": "15/2015/TT-BTP",
+      "trich_yeu": "Thông tư 15/2015/TT-BTP",
+      "ngay_ban_hanh": "16-11-2015",
+      "co_quan_ban_hanh": "Bộ Tư pháp"
+    },
+    {
+      "so_ky_hieu": "đình",
+      "trich_yeu": "52/2014/QH13",
+      "ngay_ban_hanh": "19-06-2014",
+      "co_quan_ban_hanh": ""
+    }
+  ],
+  "yeu_cau_dieu_kien": "Không"
+}

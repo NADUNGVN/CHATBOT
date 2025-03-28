@@ -1,0 +1,65 @@
+.gradio-container {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.contain {
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.chatbot {
+    height: 600px;
+    overflow-y: auto;
+}
+
+.user-message {
+    background-color: #2b313e !important;
+    border-radius: 15px !important;
+    padding: 10px 15px !important;
+    margin-bottom: 10px !important;
+}
+
+.bot-message {
+    background-color: #444654 !important;
+    border-radius: 15px !important;
+    padding: 10px 15px !important;
+    margin-bottom: 10px !important;
+}
+
+.message {
+    margin: 20px 0;
+}
+
+/* Document management styles */
+.document-list {
+    margin-top: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.upload-area {
+    border: 2px dashed #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.status-text {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.status-text.success {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+}
+
+.status-text.error {
+    background-color: #ffebee;
+    color: #c62828;
+}
